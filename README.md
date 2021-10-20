@@ -15,7 +15,6 @@
 
 ⚡ Fun fact: **I hate the crust on quesadillas.**
 
-:hugging_face: is my **favorite emoji.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
