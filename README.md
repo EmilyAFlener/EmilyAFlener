@@ -3,17 +3,17 @@
 <h1 align="center">Hey there 👋, I'm Emily</h1>
 <h3 align="center">Data Science Relativist</h3>
 
-- 🔭 I’m currently working on **mapping neural network errors to related mental illnesses.**
+🔭 I’m currently working on **mapping neural network errors to related mental illnesses.**
 
-- 🌱 I want to learn **docker better.**
+🌱 I want to learn **docker better.**
 
-- 👯 I’m looking to collaborate on **a web scraping app for my nonprofit Pawsitive Intentions.**
+👯 I’m looking to collaborate on **a web scraping app for my nonprofit Pawsitive Intentions.**
 
-- 📝 I write about the intersection of society and business. [https://www.linkedin.com/in/emilyflener/](https://www.linkedin.com/in/emilyflener/)
+📝 I write about the intersection of society and business. [https://www.linkedin.com/in/emilyflener/](https://www.linkedin.com/in/emilyflener/)
 
-- 💬 (Don't) ask me about **homesteading. I'll never stop talking.**
+💬 Ask me about **homesteading and I'll never stop talking.**
 
-- ⚡ Fun fact: **I hate the crust on quesadillas.**
+⚡ Fun fact: **I hate the crust on quesadillas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
