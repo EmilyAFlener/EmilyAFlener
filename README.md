@@ -1,7 +1,7 @@
 ![LinkedIn Banner (Personal)](https://user-images.githubusercontent.com/80731211/138025791-d962f0b4-82a7-4bde-baea-a737b9368116.jpg)
 
 <h1 align="left">Hey there 👋, I'm Emily</h1>
-<h3 align="left">Data Analyst Relativist</h3>
+<h3 align="left">Data Analyst</h3>
 
 🔭 I’m currently working on **mapping neural network errors to related mental illnesses.**
 
